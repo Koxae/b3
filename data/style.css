@@ -669,3 +669,4 @@ a.toggle-filters{margin-right:10px}
 .list-filters .list-filters-item{width:100%;margin-bottom:10px}
 
 .switcher{position:absolute;top:20px;right:20px;font-size:12px;}
+.switcher li{display:inline-block;}
